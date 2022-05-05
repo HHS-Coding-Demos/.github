@@ -8,7 +8,7 @@ For each demo, we need to:
 
     If the demo is not intro or ap specific, or is not swing or processing specific (like the mp3 demo), then just leave these portions out.
     
-3) Put an Eclipse Project into that repository. Make sure the project is set to use JDK version 1.8.
+3) Put an Eclipse Project into that repository. Make sure the project is set to use JDK version 1.8. Name the project similarly to the repo.
 
 4) Add all source/data from the zip file into the Eclipse Project. Run it and test functionality.
 
